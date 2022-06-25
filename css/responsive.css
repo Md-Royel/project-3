@@ -1,0 +1,104 @@
+/*XL Device :1200px.*/
+@media(min-width:1200px) and (max-width:1500px){
+ .main-menu ul li {margin-left: 30px;}
+ .slider-inner h2 {font-size: 40px;}
+}
+    
+
+
+
+/*LG Device :992px.*/
+@media(min-width:992px) and (max-width:1200px){
+.main-menu ul li {
+    margin-left:15px;
+}
+.features-area {
+	margin-top: 0;
+	padding-top: 100px;
+}
+.slider-inner h2 {
+	font-size: 42px;
+}    
+    
+    
+    
+    
+    
+}
+
+/*Medium Device 768.*/
+@media(min-width:768px) and (max-width:991px){
+     .header-area {
+	padding: 20px 40px;
+    background:#fff
+}
+  .features-area {
+	margin-top: 0;
+	padding-top: 100px;
+}
+ .slider-inner h2 {
+	font-size: 35px;
+}
+.slider-inner p {
+	margin-bottom: 20px;
+}
+.about-img {
+	margin-top: 41px;
+}   
+.subscribe-form form input {
+    width: 23%;
+}
+    
+    
+    
+    
+    
+}
+
+/*Extra Small Device.*/
+@media(max-width:767px){
+  .features-area {
+	margin-top: 0;
+	padding-top: 100px;
+} 
+.slider-inner h2 {
+	font-size: 30px;
+}
+     .header-area {
+	padding: 20px 40px;
+    background:#fff
+}
+.about-img {
+	margin-top: 41px;
+}
+.slider-inner p {
+	margin-bottom: 20px;
+}
+.subscribe-form form input {
+	width: 100%;
+	margin-bottom: 20px;
+}
+.pricing-item {
+	width: 100%;
+}
+.testimonial-item {
+	padding: 60px 30px;
+}
+    
+}
+
+/* Sm Small Device.*/
+@media only screen and (min-width:576px) and (max-width:767px){
+    
+
+    
+}
+
+
+
+
+
+
+
+
+
